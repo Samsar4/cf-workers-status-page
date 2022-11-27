@@ -46,3 +46,9 @@ monitors:
     url: 'https://buzz.orangebox.store/'
     method: GET
     expectStatus: 200
+    
+  - id: status1
+    name: Status 
+    url: 'https://status.orangebox.store/'
+    method: GET
+    expectStatus: 200
